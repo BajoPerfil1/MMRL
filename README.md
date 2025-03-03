@@ -1,4 +1,4 @@
-# MMRL
+#DetectDee
 
 
 ![GitHub Release](https://img.shields.io/github/v/release/MMRLApp/MMRL?label=Latest%20Release)
